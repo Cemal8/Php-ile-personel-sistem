@@ -42,7 +42,7 @@ $personeller = $stmt->fetchAll();
         </table>
         <a href="personel_ekle.php" class="btn btn-primary">Yeni Personel Ekle</a>
         <a href="kategori_ekle.php" class="btn btn-secondary">Yeni Kategori Ekle</a>
-
+        
     </div>
 </body>
 </html>
